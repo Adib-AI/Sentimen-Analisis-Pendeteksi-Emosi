@@ -8,7 +8,7 @@ Keterangan label
 * 3 = Fear
 * 4 = Happy
 
-Sumber dataset dapat ditemukan [[disini]](https://huggingface.co/datasets/indonlu)
+Sumber dataset dapat ditemukan [disini](https://huggingface.co/datasets/indonlu)
 
 Proses yang dilakukan adalah
 1. Extract data from API
